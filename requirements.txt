@@ -1,0 +1,3 @@
+fastapi~=0.111.0
+uvicorn
+paramiko~=3.4.0

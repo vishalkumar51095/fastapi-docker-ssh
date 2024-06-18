@@ -1,0 +1,145 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyArgumentListInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyBroadExceptionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyDeprecationInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="50">
+            <item index="0" class="java.lang.String" itemvalue="opencv-python-headless" />
+            <item index="1" class="java.lang.String" itemvalue="openai" />
+            <item index="2" class="java.lang.String" itemvalue="fastapi" />
+            <item index="3" class="java.lang.String" itemvalue="starlette" />
+            <item index="4" class="java.lang.String" itemvalue="uvicorn" />
+            <item index="5" class="java.lang.String" itemvalue="python-jose" />
+            <item index="6" class="java.lang.String" itemvalue="MarkupSafe" />
+            <item index="7" class="java.lang.String" itemvalue="werkzeug" />
+            <item index="8" class="java.lang.String" itemvalue="decouple" />
+            <item index="9" class="java.lang.String" itemvalue="psycopg2-binary" />
+            <item index="10" class="java.lang.String" itemvalue="werkzeug.security" />
+            <item index="11" class="java.lang.String" itemvalue="uuid" />
+            <item index="12" class="java.lang.String" itemvalue="Werkzeug" />
+            <item index="13" class="java.lang.String" itemvalue="Flask-SQLAlchemy" />
+            <item index="14" class="java.lang.String" itemvalue="PyJWT" />
+            <item index="15" class="java.lang.String" itemvalue="SQLAlchemy" />
+            <item index="16" class="java.lang.String" itemvalue="flask" />
+            <item index="17" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="18" class="java.lang.String" itemvalue="azure" />
+            <item index="19" class="java.lang.String" itemvalue="azure-identity" />
+            <item index="20" class="java.lang.String" itemvalue="azure-storage-blob" />
+            <item index="21" class="java.lang.String" itemvalue="torch" />
+            <item index="22" class="java.lang.String" itemvalue="transformers" />
+            <item index="23" class="java.lang.String" itemvalue="pandas" />
+            <item index="24" class="java.lang.String" itemvalue="requests" />
+            <item index="25" class="java.lang.String" itemvalue="cv2" />
+            <item index="26" class="java.lang.String" itemvalue="duration" />
+            <item index="27" class="java.lang.String" itemvalue="nltk" />
+            <item index="28" class="java.lang.String" itemvalue="python-dotenv" />
+            <item index="29" class="java.lang.String" itemvalue="pydub" />
+            <item index="30" class="java.lang.String" itemvalue="torch-mobile" />
+            <item index="31" class="java.lang.String" itemvalue="torchvision-cpu" />
+            <item index="32" class="java.lang.String" itemvalue="azure-ai-textanalytics" />
+            <item index="33" class="java.lang.String" itemvalue="azure-core" />
+            <item index="34" class="java.lang.String" itemvalue="azure-cognitiveservices-speech" />
+            <item index="35" class="java.lang.String" itemvalue="deep-translator" />
+            <item index="36" class="java.lang.String" itemvalue="pydantic" />
+            <item index="37" class="java.lang.String" itemvalue="numpy" />
+            <item index="38" class="java.lang.String" itemvalue="opencv_python" />
+            <item index="39" class="java.lang.String" itemvalue="Flask" />
+            <item index="40" class="java.lang.String" itemvalue="keras" />
+            <item index="41" class="java.lang.String" itemvalue="sklearn" />
+            <item index="42" class="java.lang.String" itemvalue="pickle" />
+            <item index="43" class="java.lang.String" itemvalue="scipy" />
+            <item index="44" class="java.lang.String" itemvalue="scikit-learn" />
+            <item index="45" class="java.lang.String" itemvalue="itsdangerous" />
+            <item index="46" class="java.lang.String" itemvalue="click" />
+            <item index="47" class="java.lang.String" itemvalue="Jinja2" />
+            <item index="48" class="java.lang.String" itemvalue="joblib" />
+            <item index="49" class="java.lang.String" itemvalue="librosa" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E225" />
+          <option value="E402" />
+          <option value="E303" />
+          <option value="E501" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N803" />
+          <option value="N806" />
+          <option value="N802" />
+          <option value="N812" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyRedeclarationInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="id" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyStringFormatInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnboundLocalVariableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="str.unlink" />
+          <option value="uvsudo" />
+          <option value="main.icorn" />
+          <option value="app.opencv" />
+          <option value="fastapi.requests.get" />
+          <option value="package_name.__version__" />
+          <option value="list.loc" />
+          <option value="turtle.pendown.read_excel" />
+          <option value="turtle.pendown.read_csv" />
+          <option value="security.verify_key" />
+          <option value="transcription.speechsdk" />
+          <option value="urllib.*" />
+          <option value="jwt.ExpiredSignatureError" />
+          <option value="main.token_required" />
+          <option value="main.flask_jwt_extended" />
+          <option value="main.flask_sqlalchemy" />
+          <option value="main.auth_blueprint" />
+          <option value="flask.app.run" />
+          <option value="flask.app.Flask.before_first_request" />
+          <option value="main.create_app" />
+          <option value="flask.app.config" />
+          <option value="datetime.datetime.datetime" />
+          <option value="datetime.*" />
+          <option value="app.jwt_required" />
+          <option value="app.get_jwt_identity" />
+          <option value="flask_sqlalchemy.relationship" />
+          <option value="azure.mgmt" />
+          <option value="str.filename" />
+          <option value="str.url" />
+          <option value="bytes.read" />
+          <option value="duration.video_clip" />
+          <option value="cv2.data" />
+          <option value="translation_and_transcription.requests" />
+          <option value="translation_and_transcription.pipeline" />
+          <option value="torch.cuda" />
+          <option value="app_engine.api_v1.flask_restx" />
+          <option value="main.*" />
+          <option value="face_recognition.null" />
+          <option value="languageDetection.speechsdk" />
+          <option value="librosa.*" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="VulnerableLibrariesLocal" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
